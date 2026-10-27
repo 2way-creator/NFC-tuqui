@@ -1,0 +1,6 @@
+{
+  "name": "NFC Card Studio - Tarjetas Inteligentes",
+  "description": "Crea, lee y programa tarjetas inteligentes NFC compatibles con NFC Tools y vCard para contactos y perfiles profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

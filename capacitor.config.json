@@ -1,0 +1,15 @@
+{
+  "appId": "com.nfccardstudio.app",
+  "appName": "NFC Card Studio",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "",
+      "keystorePassword": ""
+    }
+  }
+}
